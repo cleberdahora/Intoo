@@ -1,0 +1,45 @@
+
+            /* GLOBAL STYLES
+            -------------------------------------------------- */
+            /* Padding below the footer and lighter body text */
+
+            body {
+                padding-bottom: 40px;
+                color: #5a5a5a;
+
+
+            }
+            .cor3{
+                background: #66cc99;
+            }
+
+
+            .dropdown-menu li> a:hover{
+                background-color: #C8FF91;
+                border-top: 1px #C8FF91;
+            }
+
+            .navbar-form{
+                margin-left:260px;
+            }
+            .navbar-nav{
+                margin-left:60px;
+            }
+
+            .form-control{
+
+                padding: 12px 90px;
+
+            }
+            /* CUSTOMIZE THE NAVBAR
+            -------------------------------------------------- */
+
+            .bordaAzul{
+
+                border-top-width: 2px;
+
+                border-top-style: solid;
+
+                border-top-color: #1DB0B0;
+
+            }

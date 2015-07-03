@@ -1,0 +1,35 @@
+
+body, html {
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Tahoma, sans-serif;
+}
+
+
+
+.fundo {
+
+    background-color:#009100;
+}
+.fundo2{
+   width: 500px;
+   height:400px;
+   background-color: white;
+   
+}
+.col-xs-7{
+    margin-top:30px;
+    margin-left: 100px;
+}
+
+
+.btn-primary{
+    background:#509F00;
+}
+p {
+    margin-bottom: 1.5em;
+}
+@media (max-width: 767px) {
+    
+
+}
