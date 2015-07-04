@@ -20,6 +20,7 @@ and open the template in the editor.
 
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 
+        
         <script src="js/bootstrap-modal.js" type="text/javascript"></script>
         <script src="js/bootstrap-modalmanager.js" type="text/javascript"></script>
         <script src="js/bootstrap.js" type="text/javascript"  ></script>
