@@ -17,12 +17,13 @@ $(document).ready(function () {
             success: function (txt) {
 
 
-                if (login && senha === "intoo")
+                if ((login != "intoo")||(senha !="intoo"))
                 {
-                    window.location = 'menu.php';
+                    bootbox.alert(txt);
+                    
                 }
                 else {
-                    bootbox.alert(txt);
+                   window.location = 'menu.php';
                    
                 }
 
